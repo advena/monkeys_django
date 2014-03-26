@@ -1,0 +1,13 @@
+This is django version of my recruitment task
+
+There are few features about monkeys
+We can:
+    add new monkey
+    view profile of each monkey
+    edit our monkey profile; remove profile
+    each monkey can have multiple friends (other monkeys)
+    each monkey can have one best friend 
+    we can friend/unfriend each monkey 
+
+
+
